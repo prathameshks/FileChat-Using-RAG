@@ -4,3 +4,7 @@ pymupdf
 spacy
 nltk
 tqdm
+sentence-transformers
+pytorch
+tensorflow
+torch-rocm
