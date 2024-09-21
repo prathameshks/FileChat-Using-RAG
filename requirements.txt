@@ -1,0 +1,6 @@
+numpy
+pandas
+pymupdf
+spacy
+nltk
+tqdm
